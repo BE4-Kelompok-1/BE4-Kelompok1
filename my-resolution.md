@@ -1,24 +1,23 @@
-## M Wahyu Agustino
-### Software Engineering
-
-### BackEnd
-
-# Career Plan
-## Wahyu
-### BackEnd Developer
-
-## Dwi Robbi 
-### Git
-Bisa berkontribusi dengan project opensource orang lain.
+# Materi
+## Dwi Robbi
+### VCS (Git)
+Bisa berkontribusi dengan project open source orang lain
 
 ## Yusuf Supriadi
 ### Backend Programming
-bisa berkolaborasi degan tim
+Bisa berkolaborasi dengan tim
+
+## M Wahyu Agustino
+### Software Engineering
+Dapat mengetahui ilmu yang lebih dalam lagi di bidang SE
+
 
 # Career Plan
+## Dwi Robbi
+### Backend Engineer
 
-## Yusuf SUpriadi
+## Yusuf Supriadi
 ### Fullstack Developer
 
-## Dwi Robbi
-### Back End Engineering
+## Wahyu
+### BackEnd Developer
