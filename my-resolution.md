@@ -1,17 +1,9 @@
-# Materi
+# Materi 
+## M Wahyu Agustino
+### Software Engineering
 
-## Dwi Robbi 
-### Git
-Bisa berkontribusi dengan project opensource orang lain.
-
-## Yusuf Supriadi
-### Backend Programming
-bisa berkolaborasi degan tim
+### BackEnd
 
 # Career Plan
-
-## Yusuf SUpriadi
-### Fullstack Developer
-
-## Dwi Robbi
-### Back End Engineering
+## Wahyu
+### BackEnd Developer
